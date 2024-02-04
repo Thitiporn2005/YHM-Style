@@ -3,9 +3,9 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
  */
-
+ @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
 body {
-  font-family: 'Lora';
+  font-family: 'Prompt', sans-serif;
   background-image: linear-gradient(rgba(223, 177, 162, 0.158), rgba(223, 177, 162, 0.158)), url("../img/cloud-bg.jpg");
   background-attachment: fixed;
   background-position: center;
