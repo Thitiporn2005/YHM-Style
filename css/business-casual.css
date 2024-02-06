@@ -209,7 +209,7 @@ p {
 }
 
 .list-hours .list-hours-item.today {
-  font-weight: bold;
+  font-weight: bold; 
   color: #f88379;
 }
 
